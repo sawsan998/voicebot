@@ -20,15 +20,24 @@ MUST SET UP THE VOICE FIRST
 
 @INSTALL PROCESS:
 
-$ pip install pyttsx#
-
 $ git clone https://github.com/sawsan998/voicebot.git
 
 $ cd voicebot
 
 $ chmod 777 main.py (if needed)
 
+$ chmod 777 install.py (if needed)
+
+$ chmod 777 install3.py (if needed)
+
+$ python install.py or python install3.py (use any ONE)
+
 $ python main.py (to run)
+
+
+@STILL Doesnt work try:
+
+$ pip install pyttsx3
 
 
 @VOICE SETUP:
